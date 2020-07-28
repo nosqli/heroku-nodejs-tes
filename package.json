@@ -1,11 +1,11 @@
 {
     "dependencies": {
         "express": "^4.17.0",
-        "sqreen": "^1.50.0",
+        "util": "*",
         "codecov": "3.7.0"
-      },
-      "engines": {
+    },
+    "engines": {
         "node": ">= 6.0.0",
         "npm": ">= 3.0.0"
-      }
+    }
 }
