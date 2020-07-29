@@ -17,6 +17,6 @@
         "npm": ">= 3.0.0"
     },
     "scripts": {
-        "pretest": "eslint --ignore-path .gitignore"
+        "pretest": "false"
     }
 }
